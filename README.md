@@ -11,3 +11,10 @@
  The one thing I was surprised is Nano. It' so simple and cool, I really enjoyed discovering it.**
  
 [Codecademy course](https://github.com/mxmgny/kottans-frontend/blob/master/task_linux_cli/Commannd_Line.png)
+
+## 2.Git Collaboration
+**This part was not very difficult but it was like a reminder of first step. So I already knew everything in this course except flags for git commands that helps a lot.**
+
+ [Version Control with Git](https://github.com/mxmgny/kottans-frontend/blob/master/task_git_collaboration/Version_control.png?raw=true) 
+ 
+ [GitGub & Collaboration](https://github.com/mxmgny/kottans-frontend/blob/master/task_git_collaboration/GitGub_collaboration.png?raw=true)
