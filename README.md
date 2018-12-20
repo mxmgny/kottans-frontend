@@ -18,3 +18,12 @@
  [Version Control with Git](https://github.com/mxmgny/kottans-frontend/blob/master/task_git_collaboration/Version_control.png?raw=true) 
  
  [GitGub & Collaboration](https://github.com/mxmgny/kottans-frontend/blob/master/task_git_collaboration/GitGub_collaboration.png?raw=true)
+
+## 3.Intro to HTML and CSS
+**Since 9-10 school grade, I've been repeating this course once a year at least on codecademy or w3school or FreeCodeCamp. So this part wasn't new to me but remind me about everything I already know about HTML and CSS. I really enjoyed HTML Academy course, i like their idea of test at the end of every chapter and how they implement it. The whole task was a bit boring, but useful**
+
+[HTML Academy HTML course](https://github.com/mxmgny/kottans-frontend/blob/master/task_html_css_intro/htmlacademy_html_basics.png?raw=true)
+
+[HTML Academy CSS course](https://github.com/mxmgny/kottans-frontend/blob/master/task_html_css_intro/Css_basics.png?raw=true)
+
+[Udacity Intro to HTML and CSS ](https://github.com/mxmgny/kottans-frontend/blob/master/task_html_css_intro/Udacity_html.png?raw=true)
