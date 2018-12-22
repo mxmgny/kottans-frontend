@@ -27,3 +27,10 @@
 [HTML Academy CSS course](https://github.com/mxmgny/kottans-frontend/blob/master/task_html_css_intro/Css_basics.png?raw=true)
 
 [Udacity Intro to HTML and CSS ](https://github.com/mxmgny/kottans-frontend/blob/master/task_html_css_intro/Udacity_html.png?raw=true)
+
+## 4.Responsive Web Design
+**This course is very important to understand how you should think of the flexible smartphone-friendly website and taught me the basics of flexbox in HTML. I was didn't know for example, that any interaction item on the smartphone screen must be at least 48px size. Flexbox is a very powerful tool and convenient tool to make responsive websites. So I will surely use it in my future projects   ** 
+
+[Flexbox Froggy](https://github.com/mxmgny/kottans-frontend/blob/master/task_responsive_web_design/flexbox_froggy.png?raw=true)
+
+[Responsive Web Design Fundamentals](https://github.com/mxmgny/kottans-frontend/blob/master/task_responsive_web_design/Udacity_Responsive_Web_Design.png?raw=true)
