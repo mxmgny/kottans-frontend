@@ -34,3 +34,10 @@
 [Flexbox Froggy](https://github.com/mxmgny/kottans-frontend/blob/master/task_responsive_web_design/flexbox_froggy.png?raw=true)
 
 [Responsive Web Design Fundamentals](https://github.com/mxmgny/kottans-frontend/blob/master/task_responsive_web_design/Udacity_Responsive_Web_Design.png?raw=true)
+
+## 5.JavaScript Basics
+**Finaly i got to JS basics. It wasn't difficult because I'm on freeCodeCamp since spring. I did almost all js basics tasks but  doing it again was very useful. This time a passed all the tasks much faster and easier.**
+
+[FCC JS algorithm scripting](https://github.com/mxmgny/kottans-frontend/blob/master/task_js_basic/FCC_Intermediate_Algorithm_Scripting.png?raw=true)
+
+[Udacity_JavaScript intro](https://github.com/mxmgny/kottans-frontend/blob/master/task_js_basic/Udacity_Intro_to_JavaScript.png?raw=true)
