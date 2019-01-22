@@ -41,3 +41,15 @@
 [FCC JS algorithm scripting](https://github.com/mxmgny/kottans-frontend/blob/master/task_js_basic/FCC_Intermediate_Algorithm_Scripting.png?raw=true)
 
 [Udacity_JavaScript intro](https://github.com/mxmgny/kottans-frontend/blob/master/task_js_basic/Udacity_Intro_to_JavaScript.png?raw=true)
+
+## 6. DOM
+**I spend a lot of time completing the task. There were a lot of important materials such as DOM methods and understanding of how what the DOM is and how it works.
+I do really like completing algorithmic tasks. I enjoyed this part a lot and practiced my js skils!**
+
+[Udacity JS and DOM](https://github.com/mxmgny/kottans-frontend/blob/master/task_js_dom/Udacity_JS_and_DOM.png?raw=true)
+
+[FCC complete JS algorithms](https://github.com/mxmgny/kottans-frontend/blob/master/task_js_dom/FCC%20JS%20Algorithm%20Scripting.png?raw=true)
+
+**DOM Prcatice**
+
+[Demo](https://mxmgny.github.io/DOM_Practice/) **|** [Code base](https://github.com/mxmgny/DOM_Practice)
